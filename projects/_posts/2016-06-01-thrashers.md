@@ -10,7 +10,7 @@ tags: []
 
 
 ### Authors 
-Matthew Miller (Villanova University), Jeff DaCosta (Boston University), Jen Mortensen (Tufts University), Michael Sorenson (Boston University), Robert Curry (Villanova University), Michael Reed, (Tufts University)
+Matthew Miller (Villanova University), [Jeff DaCosta](http://scholar.harvard.edu/jdacosta/home), Jen Mortensen(http://www.jlmortensen.com/), Michael Sorenson(http://www.bu.edu/biology/people/profiles/michael-d-sorenson/), Robert Curry(http://robertcurrylab.com/), Michael Reed(http://ase.tufts.edu/biology/labs/reed/)
 
 ### Overview
 Nine species of trembers and thrashers (Aves: Mimidae) are found in the West Indies and adjacent Caribbean mainland. Five of the nine species are West Indian endemics, and one species (*Ramphocinclus brachyurus*) is endemic to the islands of St. Lucia and Martinique in the Lesser Antilles where they persist in threatened populations of only a few hundred (Martinique) or a few thousand birds (St. Lucia).
