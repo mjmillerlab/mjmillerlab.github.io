@@ -4,7 +4,7 @@ title: "Genomics of Recent Speciation in Lampornis Hummingbirds"
 handle: lampornis
 image:
 category: post
-tags: []
+tags: [ornithology, species limits, speciation, whole genome sequencing]
 ---
 {% include JB/setup %}
 

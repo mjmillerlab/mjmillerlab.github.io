@@ -4,7 +4,7 @@ title: "Next-generation phylogeny of Caribbean Thashers"
 handle: evolution-of-translation
 image:
 category: post
-tags: []
+tags: [ornithology, species limits, next-generation sequencing]
 ---
 {% include JB/setup %}
 
