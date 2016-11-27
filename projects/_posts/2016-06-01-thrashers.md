@@ -9,6 +9,8 @@ tags: []
 {% include JB/setup %}
 
 
+# Next-generation phylogeny of Caribbean Thashers
+
 ### Authors 
 [Matthew Miller](https://mjmillerlab.github.io/team/matthew-miller) , [Jeff DaCosta](http://scholar.harvard.edu/jdacosta/home), [Jen Mortensen](http://www.jlmortensen.com/), [Michael Sorenson](http://www.bu.edu/biology/people/profiles/michael-d-sorenson/), [Robert Curry](http://robertcurrylab.com/), [Michael Reed](http://ase.tufts.edu/biology/labs/reed/)
 
