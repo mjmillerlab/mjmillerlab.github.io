@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jorge Garzon
-position: Collaborating Graduate Student
+position: Collaborator
 handle: jgarzon
 email: jluisvasquez2010@gmail.com
 twitter: 
