@@ -9,7 +9,7 @@ twitter:
 github: kkhawkins
 scholar:
 image: /assets/images/team/kevin1.jpg
-cv:
+cv: /assets/images/team/HawkinsKK_CV.v.Dec16
 alum: false
 ---
 
