@@ -31,14 +31,14 @@ Kevin and I will meet once a week, for 11 weeks. Time and day of the week to be 
 2.  Avise, J.C. and Walker, D.E., 1998. Pleistocene phylogeographic effects on avian populations and the speciation process. Proceedings of the Royal Society of London B: Biological Sciences, 265(1395), pp.457-463.	
 3. Klicka, J. and Zink, R.M., 1999. Pleistocene effects on North American songbird evolution. Proceedings of the Royal Society of London B: Biological Sciences, 266(1420), pp.695-700.
 4.  Hewitt, G., 2000. The genetic legacy of the Quaternary ice ages. Nature, 405(6789), pp.907-913.
-5.  Good, J.M., Hird, S., Reid, N., Demboski, J.R., Steppan, S.J., MARTIN‐NIMS, T.R. and Sullivan, J., 2008. Ancient hybridization and mitochondrial capture between two species of chipmunks. Molecular Ecology, 17(5), pp.1313-1327.
+5.  Good, J.M., Hird, S., Reid, N., Demboski, J.R., Steppan, S.J., MARTIN‐NIMS, T.R. and Sullivan, J., 2008. Ancient hybridization and mitochondrial capture between two species of chipmunks. Molecular Ecology, 17(5), pp.1313-1327. *Not avian, but important for Kevin's work*
 
 ### Week 5: Contemporary studies of North American Avian Speciation
 1. Milá, B., McCormack, J.E., Castañeda, G., Wayne, R.K. and Smith, T.B., 2007. Recent postglacial range expansion drives the rapid diversification of a songbird lineage in the genus *Junco*. Proceedings of the Royal Society of London B: Biological Sciences, 274(1626), pp.2653-2660.
 2.  Klicka, J., Spellman, G.M., Winker, K., Chua, V. and Smith, B.T., 2011. A phylogeographic and population genetic analysis of a widespread, sedentary North American bird: The Hairy Woodpecker (*Picoides villosus*). The Auk, 128(2), pp.346-362.
 3.  Toews, D.P., Taylor, S.A., Vallender, R., Brelsford, A., Butcher, B.G., Messer, P.W. and Lovette, I.J., 2016. Plumage genes and little else distinguish the genomes of hybridizing warblers. Current Biology, 26(17), pp.2313-2318.
 4. Bay, R.A. and Ruegg, K., 2017, March. Genomic islands of divergence or opportunities for introgression?. In Proc. R. Soc. B (Vol. 284, No. 1850, p. 20162414). The Royal Society.
-5.   Good, J.M., Vanderpool, D., Keeble, S. and Bi, K., 2015. Negligible nuclear introgression despite complete mitochondrial capture between two species of chipmunks. Evolution, 69(8), pp.1961-1972.
+5.   Good, J.M., Vanderpool, D., Keeble, S. and Bi, K., 2015. Negligible nuclear introgression despite complete mitochondrial capture between two species of chipmunks. Evolution, 69(8), pp.1961-1972. *Follow up to Good et al. 2008.*
 
 ### Week 6:  Phenotypic vs. Genetic Differentiation in Neotropical Birds
 1. Bates, J.M., Hackett, S.J. and Goerck, J.M., 1999. High levels of mitochondrial DNA differentiation in two lineages of antbirds (*Drymophila* and *Hypocnemis*). The Auk, pp.1093-1106.
