@@ -1,13 +1,13 @@
 # Independent Study: Geography of Speciation — Fall 2017
 
-This is an independent reading course that I have designed for Kevin Hawkins, a PhD student in my lab. It is tailored to give Kevin an historical, broad, and also deep perspective on the current state of thinking about the geography of speciation, especially as it relates to North American birds (since Kevin’s thesis focuses on speciation in a North American bird complex).  While many of these readings would be considered canonical, they also represent papers/systems (e.g. *Heliconius*) that have  influenced my thinking about speciation. Likewise, many obvious papers were excluded because of Kevin’s existing familiarity with the topic.
+This is an independent reading course that I have designed for Kevin Hawkins and Jessica McLaughlin, two PhD student in my lab. It is tailored to give them an historical, broad, and also deep perspective on the current state of thinking about the geography of speciation, especially as it relates to birds (since Kevin and Jessica’s dissertations focus on speciation in a New World birds).  While many of these readings would be considered canonical, they also represent papers/systems (e.g. *Heliconius*) that have  influenced my thinking about speciation. Many obvious papers were excluded because of Jessica and Kevin’s existing familiarity with the topic.
 
-For the independent study, I will be meeting with Kevin once a week for 60 minutes. During that meeting we will discuss the three papers. 24 hours before our meeting, Kevin will provide me:
+For the independent study, I will be meeting with the students once a week for 60 minutes. During that meeting we will discuss the three papers. 24 hours before our meeting, the students will provide me:
 - A printed copy of each paper that shows highlighting and annotations.
 - A summary of the paper.  In the style of [Jonathan Tonkin](http://jdtonkin.github.io/365papers)
 - A list of three key points of observations. Written in sentence style. Two to four sentences per observation.
 
-Kevin and I will meet once a week, for 11 weeks. Time and day of the week to be determined.
+Jessica, Kevin and I will meet once a week, for 11 weeks. Time and day of the week to be determined.
 
 ### Week 1:  The Canonical View of the Geography of Speciation
 1. Coyne and Orr, Chapters 1 & 2
@@ -15,7 +15,7 @@ Kevin and I will meet once a week, for 11 weeks. Time and day of the week to be 
 
 ### Week 2: Alternatives to Allopatric Speciation
 1. Endler, J.A., 1982. Problems in distinguishing historical from ecological factors in biogeography. American Zoologist, 22(2), pp.441-452.
-2.  Patton, J.L. and Smith, M.F., 1992. MtDNA phylogeny of Andean mice: a test of diversification across ecological gradients. Evolution, pp.174-183.
+2. Patton, J.L. and Smith, M.F., 1992. MtDNA phylogeny of Andean mice: a test of diversification across ecological gradients. Evolution, pp.174-183.
 3. Jiggins, C.D. and Mallet, J., 2000. Bimodal hybrid zones and speciation. Trends in Ecology & Evolution, 15(6), pp.250-255.
 4. Smith, T.B., Wayne, R.K., Girman, D.J. and Bruford, M.W., 1997. A role for ecotones in generating rainforest biodiversity. Science, 276(5320), pp.1855-1857.
 
@@ -27,11 +27,11 @@ Kevin and I will meet once a week, for 11 weeks. Time and day of the week to be 
 5. Elias, M., Joron, M., Willmott, K., Silva‐Brandao, K.L., Kaiser, V., Arias, C.F., Piñerez, L.G., Uribe, S., Brower, A.V.Z., Freitas, A.V.L. and Jiggins, C.D., 2009. Out of the Andes: patterns of diversification in clearwing butterflies. Molecular Ecology, 18(8), pp.1716-1729.
 
 ### Week 4:  The Importance of the Pleistocene for Speciation in North American Birds
-1.  Klicka, J. and Zink, R.M., 1997. The importance of recent ice ages in speciation: a failed paradigm. Science, 277(5332), pp.1666-1669.
-2.  Avise, J.C. and Walker, D.E., 1998. Pleistocene phylogeographic effects on avian populations and the speciation process. Proceedings of the Royal Society of London B: Biological Sciences, 265(1395), pp.457-463.	
+1. Klicka, J. and Zink, R.M., 1997. The importance of recent ice ages in speciation: a failed paradigm. Science, 277(5332), pp.1666-1669.
+2. Avise, J.C. and Walker, D.E., 1998. Pleistocene phylogeographic effects on avian populations and the speciation process. Proceedings of the Royal Society of London B: Biological Sciences, 265(1395), pp.457-463.	
 3. Klicka, J. and Zink, R.M., 1999. Pleistocene effects on North American songbird evolution. Proceedings of the Royal Society of London B: Biological Sciences, 266(1420), pp.695-700.
-4.  Hewitt, G., 2000. The genetic legacy of the Quaternary ice ages. Nature, 405(6789), pp.907-913.
-5.  Good, J.M., Hird, S., Reid, N., Demboski, J.R., Steppan, S.J., MARTIN‐NIMS, T.R. and Sullivan, J., 2008. Ancient hybridization and mitochondrial capture between two species of chipmunks. Molecular Ecology, 17(5), pp.1313-1327. *Not avian, but important for Kevin's work*
+4. Hewitt, G., 2000. The genetic legacy of the Quaternary ice ages. Nature, 405(6789), pp.907-913.
+5. Good, J.M., Hird, S., Reid, N., Demboski, J.R., Steppan, S.J., MARTIN‐NIMS, T.R. and Sullivan, J., 2008. Ancient hybridization and mitochondrial capture between two species of chipmunks. Molecular Ecology, 17(5), pp.1313-1327. *Not avian, but important for Jessica and Kevin's work*
 
 ### Week 5: Contemporary studies of North American Avian Speciation
 1. Milá, B., McCormack, J.E., Castañeda, G., Wayne, R.K. and Smith, T.B., 2007. Recent postglacial range expansion drives the rapid diversification of a songbird lineage in the genus *Junco*. Proceedings of the Royal Society of London B: Biological Sciences, 274(1626), pp.2653-2660.
@@ -53,24 +53,33 @@ Kevin and I will meet once a week, for 11 weeks. Time and day of the week to be 
 4. Seneviratne, S.S., Davidson, P., Martin, K. and Irwin, D.E., 2016. Low levels of hybridization across two contact zones among three species of woodpeckers (*Sphyrapicus* sapsuckers). Journal of Avian Biology, 47(6), pp.887-898
 5. van Els, P., Spellman, G.M., Smith, B.T. and Klicka, J., 2014. Extensive gene flow characterizes the phylogeography of a North American migrant bird: Black-headed Grosbeak (*Pheucticus melanocephalus*). Molecular phylogenetics and evolution, 78, pp.148-159.
 
-### Week 8 and 9:  *Heliconius* as a model for studying the geography of speciation
+### Week 8: *Heliconius* as a model for studying the geography of speciation, part 1
 1. Jiggins, C.D., McMillan, W.O., Neukirchen, W. and Mallet, J., 1996. What can hybrid zones tell us about speciation? The case of *Heliconius erato* and *H. himera* (Lepidoptera: Nymphalidae). Biological Journal of the Linnean Society, 59(3), pp.221-242.
 2. Jiggins, C.D., Naisbit, R.E., Coe, R.L. and Mallet, J., 2001. Reproductive isolation caused by colour pattern mimicry. Nature, 411(6835), pp.302-305.
 3.  Naisbit, R.E., Jiggins, C.D., Linares, M., Salazar, C. and Mallet, J., 2002. Hybrid sterility, Haldane's rule and speciation in *Heliconius cydno* and *H. melpomene*. Genetics, 161(4), pp.1517-1526.
-4. Beltrán, M., Jiggins, C.D., Bull, V., Linares, M., Mallet, J., McMillan, W.O. and Bermingham, E., 2002. Phylogenetic discordance at the species boundary: comparative gene genealogies among rapidly radiating *Heliconius* butterflies. Molecular Biology and Evolution, 19(12), pp.2176-2190. 
-5. Bull, V., Beltrán, M., Jiggins, C.D., McMillan, W.O., Bermingham, E. and Mallet, J., 2006. Polyphyly and gene flow between non-sibling *Heliconius* species. BMC biology, 4(1), p.11.
-6. Pardo-Diaz, C., Salazar, C., Baxter, S.W., Merot, C., Figueiredo-Ready, W., Joron, M., McMillan, W.O. and Jiggins, C.D., 2012. Adaptive introgression across species boundaries in *Heliconius* butterflies. PLoS Genet, 8(6), p.e1002752.
-7.  Nadeau, N.J., Martin, S.H., Kozak, K.M., Salazar, C., Dasmahapatra, K.K., Davey, J.W., Baxter, S.W., Blaxter, M.L., Mallet, J. and Jiggins, C.D., 2013. Genome‐wide patterns of divergence and gene flow across a butterfly radiation. Molecular Ecology, 22(3), pp.814-826.
-8.  Rosser, N., Kozak, K.M., Phillimore, A.B. and Mallet, J., 2015. Extensive range overlap between heliconiine sister species: evidence for sympatric speciation in butterflies?. BMC evolutionary biology, 15(1), p.125.  (*I especially want to see a careful review of the idea that the culture of ornithologists and lepidopterists contributes to fundamental ly-different ideas of how speciation works*)
 
-### Week 10: Contemporary views on the role of habitat variation in primary diversification
+### Week 9: *Heliconius* as a model for studying the geography of speciation, part 2
+1. Beltrán, M., Jiggins, C.D., Bull, V., Linares, M., Mallet, J., McMillan, W.O. and Bermingham, E., 2002. Phylogenetic discordance at the species boundary: comparative gene genealogies among rapidly radiating *Heliconius* butterflies. Molecular Biology and Evolution, 19(12), pp.2176-2190.
+2. Bull, V., Beltrán, M., Jiggins, C.D., McMillan, W.O., Bermingham, E. and Mallet, J., 2006. Polyphyly and gene flow between non-sibling *Heliconius* species. BMC biology, 4(1), p.11.
+3. Pardo-Diaz, C., Salazar, C., Baxter, S.W., Merot, C., Figueiredo-Ready, W., Joron, M., McMillan, W.O. and Jiggins, C.D., 2012. Adaptive introgression across species boundaries in *Heliconius* butterflies. PLoS Genet, 8(6), p.e1002752.
+
+### Week 10: *Heliconius* as a model for studying the geography of speciation, part 2
+1. Nadeau, N.J., Martin, S.H., Kozak, K.M., Salazar, C., Dasmahapatra, K.K., Davey, J.W., Baxter, S.W., Blaxter, M.L., Mallet, J. and Jiggins, C.D., 2013. Genome‐wide patterns of divergence and gene flow across a butterfly radiation. Molecular Ecology, 22(3), pp.814-826.
+2. Rosser, N., Kozak, K.M., Phillimore, A.B. and Mallet, J., 2015. Extensive range overlap between heliconiine sister species: evidence for sympatric speciation in butterflies?. BMC evolutionary biology, 15(1), p.125.  (*I especially want to see a careful review of the idea that the culture of ornithologists and lepidopterists contributes to fundamental ly-different ideas of how speciation works*)
+3. Merot, C., Salazar, C., Merrill, R.M., Jiggins, C.D., & Joron, M. 2017. What shapes the continuum of reproductive isolation? Lessons from Heliconius butterflies. Proc. Roy Soc B 284:20170335.
+
+### Week 11: Contemporary views on the role of habitat variation in primary diversification
 1. Benham, P.M. and Witt, C.C., 2016. The dual role of Andean topography in primary divergence: functional and neutral variation among populations of the hummingbird, *Metallura tyrianthina*. BMC evolutionary biology, 16(1), p.22.
 2. Winger, B.M., 2017. Consequences of divergence and introgression for speciation in Andean cloud forest birds. Evolution.
-3.  Alcaide, M., Scordato, E.S., Price, T.D. and Irwin, D.E., 2014. Genomic divergence in a ring species complex. Nature, 511(7507), pp.83-85.
+3. Alcaide, M., Scordato, E.S., Price, T.D. and Irwin, D.E., 2014. Genomic divergence in a ring species complex. Nature, 511(7507), pp.83-85.
 
-### Week 11:  Where we are now
+### Week 12: Where we are now, part 1
 1. Harrison, R.G. and Larson, E.L., 2014. Hybridization, introgression, and the nature of species boundaries. Journal of Heredity, 105(S1), pp.795-809.
 2. Roux, C., Fraisse, C., Romiguier, J., Anciaux, Y., Galtier, N. and Bierne, N., 2016. Shedding light on the grey zone of speciation along a continuum of genomic divergence. PLoS biology, 14(12), p.e2000234.
 3. Edwards, S.V., Potter, S., Schmitt, C.J., Bragg, J.G. and Moritz, C., 2016. Reticulation, divergence, and the phylogeography–phylogenetics continuum. Proceedings of the National Academy of Sciences, 113(29), pp.8025-8032.
 4.  Zamudio, K.R., Bell, R.C. and Mason, N.A., 2016. Phenotypes in phylogeography: Species’ traits, environmental variation, and vertebrate diversification. Proceedings of the National Academy of Sciences, 113(29), pp.8041-8048.
-5.  Hooper, D.M., 2016. Range overlap drives chromosome inversion fixation in passerine birds. bioRxiv, p.053371.
+
+### Week 13: Where we are now, part 2
+1. Guerrero, Rafael F., and Matthew W. Hahn.2017. Speciation as a sieve for ancestral polymorphism. Online Early Molecular Ecology.
+2. Smith BT, Seeholzer GF, Harvey MG, Cuervo AM, Brumfield RT. 2017. A latitudinal phylogeographic diversity gradient in birds. PLoS Biology 15(4):e2001073.
+3. Hooper, D.M., 2016. Range overlap drives chromosome inversion fixation in passerine birds. bioRxiv, p.053371.
