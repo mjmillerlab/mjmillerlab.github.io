@@ -26,7 +26,7 @@ Jessica, Kevin and I will meet once a week, for 11 weeks. Time and day of the we
 4. Fitzpatrick, B.M. and Turelli, M., 2006. The geography of mammalian speciation: mixed signals from phylogenies and range maps. Evolution, 60(3), pp.601-615.
 5. Elias, M., Joron, M., Willmott, K., Silva‐Brandao, K.L., Kaiser, V., Arias, C.F., Piñerez, L.G., Uribe, S., Brower, A.V.Z., Freitas, A.V.L. and Jiggins, C.D., 2009. Out of the Andes: patterns of diversification in clearwing butterflies. Molecular Ecology, 18(8), pp.1716-1729.
 
-### Week 4:  The Importance of the Pleistocene for Speciation in North American Birds
+### Week 4: The Importance of the Pleistocene for Speciation in North American Birds
 1. Klicka, J. and Zink, R.M., 1997. The importance of recent ice ages in speciation: a failed paradigm. Science, 277(5332), pp.1666-1669.
 2. Avise, J.C. and Walker, D.E., 1998. Pleistocene phylogeographic effects on avian populations and the speciation process. Proceedings of the Royal Society of London B: Biological Sciences, 265(1395), pp.457-463.	
 3. Klicka, J. and Zink, R.M., 1999. Pleistocene effects on North American songbird evolution. Proceedings of the Royal Society of London B: Biological Sciences, 266(1420), pp.695-700.
@@ -83,3 +83,4 @@ Jessica, Kevin and I will meet once a week, for 11 weeks. Time and day of the we
 1. Guerrero, Rafael F., and Matthew W. Hahn.2017. Speciation as a sieve for ancestral polymorphism. Online Early Molecular Ecology.
 2. Smith BT, Seeholzer GF, Harvey MG, Cuervo AM, Brumfield RT. 2017. A latitudinal phylogeographic diversity gradient in birds. PLoS Biology 15(4):e2001073.
 3. Hooper, D.M., 2016. Range overlap drives chromosome inversion fixation in passerine birds. bioRxiv, p.053371.
+4. Davidson J.H. and Balakrishnan C.N., 2016. Gene regulatory evolution during speciation in a songbird. G3: Genes, Genomes, Genetics 6: 1357-1364.
