@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Daniel Buitrago-Rosas
-position: Collaborator
+position: 
 handle: daniel
 email: importanacional@gmail.com
 twitter:

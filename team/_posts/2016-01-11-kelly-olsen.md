@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Kelly Olsen
-position: Undergraduate Student
+position:
 handle: kolsen
 email: kolsen8@villanova.edu
 twitter:

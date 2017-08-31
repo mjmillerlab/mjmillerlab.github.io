@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jorge Garzon
-position: Collaborator
+position: 
 handle: jgarzon
 email: jluisvasquez2010@gmail.com
 twitter: 
@@ -9,9 +9,7 @@ github:
 scholar: 
 image: /assets/images/team/Jorge.jpg
 cv:
-alum: false
+alum: true
 ---
 
-Jorge Garzon is collaborating on various projects in the Miller Lab. He received his bachelor's degree in biology from the University of Panama and was working for three years at the Smithsonian Institute Bird Collection (STRIBC) where he learned how to process bird skins and developed his skills as a field ornithologist. Jorge also worked in the Gorgas Memorial Institute where he studied zoonotic diseases in mammals. His interest also expand to studying speciation of birds in the Neotropics.
-
-He is currently looking to study evolutionary biology in a Master's program. 
+Jorge Garzon is a research technician at the [Gorgas Memorial Institute](http://www.gorgas.gob.pa). Previously, Jorge was a research intern when the Miller Lab was at [STRI](http://www.stri.si.edu), and he did his BS thesis in the lab. Jorge continues to collaborate on various projects in the Miller Lab. At the Smithsonian Institute Bird Collection (STRIBC) he learned how to process bird skins and developed his skills as a field ornithologist. His interest also expand to studying speciation of birds in the Neotropics.
