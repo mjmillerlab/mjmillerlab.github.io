@@ -9,7 +9,7 @@ github:
 scholar: 
 image: /assets/images/team/kelly.png
 cv:
-alum: false
+alum: true
 ---
 
 Kelly is a BS/MS student at Villanova University interested in diverse topics in biology ranging from cell biology to tropical biodiversity (she lives part-time in Tobago). Kelly is collaborating on quantifying phenotypic variation in *Heniocorhina leucostica* across their cryptic secondary contact zone in Panama.
