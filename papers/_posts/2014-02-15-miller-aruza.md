@@ -9,7 +9,7 @@ pages: 711-717
 authors: "Miller MJ"
 image: /assets/images/papers/aruza.png
 pdf: /asssets/pdfs/miller2014a.pdf
-pdflink: http://www.scielo.sa.cr/pdf/rbt/v62n2/a25v62n2.pdf
+pdflink: /asssets/pdfs/miller2014a.pdf
 pmid: 25102652
 pmcid: 
 f1000: 
