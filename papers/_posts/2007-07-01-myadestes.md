@@ -3,13 +3,13 @@ layout: paper
 title: "Historical biogeography of the new world solitaires (Myadestes spp)"
 year: "2007"
 shortref: "Miller et al. 2007. The Auk"
-journal: "BMC Evolutionary Biology"
+journal: The Auk
 volume: 124
 issue: 
 pages: 868-885
 authors: "Matthew J Miller, Eldredge Bermingham, Robert E Ricklefs"
 image: /assets/images/papers/melanops.gif
-pdf: 
+pdf: /assets/pdf/Miller2007.pdf
 pdflink: http://www.jstor.org/stable/pdf/25150343.pdf
 doi: 
 category: paper
