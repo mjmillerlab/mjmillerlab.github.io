@@ -10,10 +10,6 @@ CONFIG = {
   'layouts' => File.join(SOURCE, "_layouts"),
   'posts' => File.join(SOURCE, "blog/_posts"),
   'post_ext' => "md",
-  'papers' => File.join(SOURCE, "papers/_posts"),
-  'paper_ext' => "md",
-  'protocols' => File.join(SOURCE, "protocols/_posts"),
-  'protocol_ext' => "md",
   'theme_package_version' => "0.1.0"
 }
 
@@ -84,79 +80,6 @@ task :post do
     post.puts "{% include JB/setup %}"
   end
 end # task :post
-
-# Usage: rake paper title="Paper title" [date="2012-02-09"] [tags=[tag1,tag2]]
-desc "Post a new paper in #{CONFIG['papers']}"
-task :paper do
-  abort("rake aborted: '#{CONFIG['papers']}' directory not found.") unless FileTest.directory?(CONFIG['papers'])
-  title = ENV["title"] || "new-post"
-  tags = ENV["tags"] || "[]"
-  #category = ENV["category"] || ""
-  #category = "\"#{category.gsub(/-/,' ')}\"" if !category.empty?
-  slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
-  begin
-    date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
-  rescue => e
-    puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
-    exit -1
-  end
-  filename = File.join(CONFIG['papers'], "#{date}-#{slug}.#{CONFIG['paper_ext']}")
-  if File.exist?(filename)
-    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
-  end
-  
-  puts "Creating new paper entry: #{filename}"
-  open(filename, 'w') do |paper|
-    paper.puts "---"
-    paper.puts "layout: paper"
-    paper.puts "title: \"#{title.gsub(/-/,' ')}\""
-    paper.puts 'year: ""'
-    paper.puts 'ref: ""'
-    paper.puts 'journal: ""'
-    paper.puts 'authors: ""'
-    paper.puts 'image: /assets/images/papers/default-paper.png'
-    paper.puts 'pdf: '
-    paper.puts 'doi: ""'
-    paper.puts "category: paper" # #{category}"
-    paper.puts "tags: #{tags}"
-    paper.puts "---"
-    paper.puts "{% include JB/setup %}"
-  end
-end # task :paper
-
-
-# Usage: rake protocol title="Protocol Title" [date="2015-05-01"] [tags=[tag1,tag2]]
-desc "Begin a new protocol in #{CONFIG['protocols']}"
-task :protocol do
-  abort("rake aborted: '#{CONFIG['protocols']}' directory not found.") unless FileTest.directory?(CONFIG['protocols'])
-  title = ENV["title"] || "new-protocol"
-  tags = ENV["tags"] || "[]"
-  category = ENV["category"] || ""
-  category = "\"#{category.gsub(/-/,' ')}\"" if !category.empty?
-  slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
-  begin
-    date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
-  rescue => e
-    puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
-    exit -1
-  end
-  filename = File.join(CONFIG['protocols'], "#{date}-#{slug}.#{CONFIG['protocol_ext']}")
-  if File.exist?(filename)
-    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
-  end
-  
-  puts "Creating new protocol: #{filename}"
-  open(filename, 'w') do |post|
-    post.puts "---"
-    post.puts "layout: protocol"
-    post.puts "title: \"#{title.gsub(/-/,' ')}\""
-    post.puts 'description: ""'
-    post.puts "category: protocol"
-    post.puts "tags: #{tags}"
-    post.puts "---"
-    post.puts "{% include JB/setup %}"
-  end
-end # task :protocol
 
 # Usage: rake page name="about.html"
 # You can also specify a sub-directory path.
