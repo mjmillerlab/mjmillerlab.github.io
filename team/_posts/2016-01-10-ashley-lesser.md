@@ -9,7 +9,7 @@ github:
 scholar: 
 image: /assets/images/team/lesser.jpg
 cv: 
-alum: true
+alum: false
 ---
 
 Ashley is an undergraduate student in the [First-Year Research Expereince Program](http://fyre.oucreate.com/Home/) at the [The University of Oklahoma](http://www.ou.edu/). She is seeking a Bachelor’s of Science in Biology with minors in Chemistry and Non-Profit Organizational Studies with the eventual goal of becoming a physican. 
