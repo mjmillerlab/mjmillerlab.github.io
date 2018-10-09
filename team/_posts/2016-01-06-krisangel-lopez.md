@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Krisangel López"
-position: Graduate Student
+position: MS Student (OU)
 nickname: Kris
 handle: klopez
 email: krisangel.lopez-1@ou.edu

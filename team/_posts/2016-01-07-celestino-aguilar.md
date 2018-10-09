@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Celestino Aguilar
-position: Collaborating Graduate Student
+position: PhD Student (INDICASAT)
 handle: caguilar
 email: aguilar2587c@gmail.com
 twitter: 
