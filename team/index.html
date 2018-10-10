@@ -6,7 +6,8 @@ group: navigation
 navorder: 2
 ---
 {% include JB/setup %}
-
+<div class="bigspacer"></div>
+<div class="title text-left">Current Members</div>
 <div class="bigspacer"></div>
 {% assign current_team = site.categories.team | where: "alum","false"%}
 {% assign memberindex = 0 %}
@@ -37,9 +38,8 @@ navorder: 2
 
 
 
-<div class="bigspacer"></div>
 <hr/>
-<div class="bigtitle text-center">Alumni</div>
+<div class="title text-left">Past Members</div>
 <div class="bigspacer"></div>
 
 {% assign alumni = site.categories.team | where: "alum","true"%}

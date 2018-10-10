@@ -1,6 +1,6 @@
 ---
 layout: member
-title: "Matthew Miller"
+title: Matthew Miller
 position: Principal Investigator
 nickname: Matt
 handle: mjmiller

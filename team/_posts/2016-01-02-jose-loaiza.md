@@ -1,6 +1,6 @@
 ---
 layout: member
-title: "Jose Loaiza"
+title: Jose Loaiza
 position: Senior Collaborator
 nickname: Jose
 handle: jrl
