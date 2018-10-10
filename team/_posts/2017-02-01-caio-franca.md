@@ -1,16 +1,17 @@
 ---
 layout: member
-title: Jose Loaiza
-position: Senior Collaborator
-nickname: Jose
-handle: jrl
-email: probocis24@hotmail.com
+title: Caio Franca
+position: Senior Collaborator (Southern Nazarene University)
+nickname: Caoi
+handle: cf
+email: cfranca@mail.snu.edu
 twitter:
 github:
-scholar: 6TOQWNQAAAAJ
-image: /assets/images/team/jose2.jpg
+scholar: 
+image: /assets/images/team/caio.jpg
 cv:
-alum: false
+alum: 
+collaborator: true
 ---
 
 Dr. Loaiza is a disease ecologist with expertise in vector-borne pathogens. He has a strong interest in viewing infectious disease as a system incorporating human, animal and wildlife health, in the context of the environment. His focus combines ecological field studies with laboratory-based investigations of disease pathogens, their vectors and hosts to understand their interactions and potential for disease emergence. Jose has also proficiency on population genetics, phylogeography, ecological niche modeling and genomics. 

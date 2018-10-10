@@ -9,7 +9,8 @@ github:
 scholar: 
 image: /assets/images/team/celestino2.jpg
 cv:
-alum: false
+alum: 
+collaborator: true
 ---
 
 Celestino is a current PhD student at INDiCASTA-AIP in Cuidad de Saber, Panama. He is co-advised by Luis Fernando DeLeon, Jose Loaiza, and Matt. Celestino's dissertation focuses on the application of [ultraconserved elements (UCES)](http://ultraconserved.org/) to understanding the biogeographic history and species limits in Neotropical birds and fishes.

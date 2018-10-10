@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Jorge Garzon
-position: 
+position: STRI Bird Collection (now Research Technician at the Gorgas Memorial Lab)
 handle: jgarzon
 email: jluisvasquez2010@gmail.com
 twitter: 

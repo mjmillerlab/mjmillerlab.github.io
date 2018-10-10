@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Daniel Buitrago-Rosas
-position: 
+position: STRI Bird Collection (now PhD Student at UMass Boston)
 handle: daniel
 email: importanacional@gmail.com
 twitter:
