@@ -93,9 +93,11 @@
           {% assign pages_list = (site.pages | sort: 'navorder') %}
           {% assign group = 'navigation' %}
           {% include JB/pages_list %}
+<!--  If at some time you want to create drop-downs for different classes of research projects, here is where
+      You would do it
           <li class="dropdown nav navbar-nav">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-              More2 <span class="caret"></span>
+              Research Projects <span class="caret"></span>
             </a>
 
             <ul class="dropdown-menu nav navbar-nav" role="menu">
@@ -104,7 +106,7 @@
               {% include JB/pages_list %}
             </ul>
             </li>
-        </ul>
+        </ul>-->
       </div><!-- /.navbar-collapse -->
     </nav>
    </div>

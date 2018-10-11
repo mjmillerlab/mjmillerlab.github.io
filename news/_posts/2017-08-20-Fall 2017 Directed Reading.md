@@ -1,6 +1,15 @@
-# Independent Study: Geography of Speciation — Fall 2017
+---
+layout: news
+title: "Fall Independent Study"
+author: "MJ Miller"
+author_handle: "mjm"
+category: news
+tags: [teaching]
+---
 
-This is an independent reading course that I have designed for Kevin Hawkins and Jessica McLaughlin, two PhD student in my lab. It is tailored to give them an historical, broad, and also deep perspective on the current state of thinking about the geography of speciation, especially as it relates to birds (since Kevin and Jessica’s dissertations focus on speciation in a New World birds).  While many of these readings would be considered canonical, they also represent papers/systems (e.g. *Heliconius*) that have  influenced my thinking about speciation. Many obvious papers were excluded because of Jessica and Kevin’s existing familiarity with the topic.
+Independent Study: Geography of Speciation — Fall 2017
+
+This is an independent reading course that I have designed for [Kevin Hawkins](/team/kevin-hawkins) and [Jessica McLaughlin](/team/jessica-mclaughlin), two PhD student in my lab. It is tailored to give them an historical, broad, and also deep perspective on the current state of thinking about the geography of speciation, especially as it relates to birds (since Kevin and Jessica’s dissertations focus on speciation in a New World birds).  While many of these readings would be considered canonical, they also represent papers/systems (e.g. *Heliconius*) that have  influenced my thinking about speciation. Many obvious papers were excluded because of Jessica and Kevin’s existing familiarity with the topic.
 
 For the independent study, I will be meeting with the students once a week for 60 minutes. During that meeting we will discuss the three papers. 24 hours before our meeting, the students will provide me:
 - A printed copy of each paper that shows highlighting and annotations.
