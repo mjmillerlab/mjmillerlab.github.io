@@ -62,10 +62,13 @@ categories:
 
 <div class="hugespacer"></div>
 
+
+
 <div class="row">
-	<div class="col-md-4">
+
+<div class="col-md-4">
 		<div class="head">
-			<a class="off" href="/news/">News</a>
+			<a class="off" href="/news/">Posts</a>
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">
@@ -78,13 +81,10 @@ categories:
 				{% endfor %}		
 				
 				<div class="note-title">
-					<i class="fa fa-bullhorn fa-fw"></i>
+					<i class="fa fa-comment-o fa-fw"></i>
 					<a class="off" href="{{ news.url }}">
 					{{ news.title }}
 					</a>
-				</div>
-				<div class="note">
-					{{ news.content }}
 				</div>
 				<div class="smallspacer"></div>
 				<div class="smallnote">
@@ -100,30 +100,35 @@ categories:
 		</div>
 		<div class="bigspacer"></div>		
 	</div>
+
+
+
+
+
 	<div class="col-md-4">
 		<div class="head">
-			<a class="off" href="/blog/">Posts</a>
+			<a class="off" href="/projects/">Project Updates</a>
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">
-			{% for post in site.categories.blog limit:4 %}
+			{% for project in site.categories.projects limit:4 %}
 			
 				{% for member in site.categories.team %}
-					{% if member.handle == post.author_handle %}
+					{% if member.handle == projects.author_handle %}
 						{% assign author = member %}
 					{% endif %}
 				{% endfor %}		
 				
 				<div class="note-title">
 					<i class="fa fa-comment-o fa-fw"></i>
-					<a class="off" href="{{ post.url }}">
-					{{ post.title }}
+					<a class="off" href="{{ project.url }}">
+					{{ project.title }}
 					</a>
 				</div>
 				<div class="smallspacer"></div>
 				<div class="smallnote">
-					Posted
-					{{ post.date | date_to_string }}
+					Updated
+					{{ project.date | date_to_string }}
 					{% if author %}
 					by <a class="off" href="{{ author.url }}">{{ author.nickname }}</a>
 					{% endif %}						
@@ -134,6 +139,18 @@ categories:
 		</div>
 		<div class="bigspacer"></div>		
 	</div>
+
+
+
+
+	
+
+
+
+
+
+
+
 	<div class="col-md-4">
 		<div class="head">
 			<a class="off" href="/papers/">Papers
@@ -163,6 +180,11 @@ categories:
 		</div>
 		<div class="bigspacer"></div>		
 	</div>
+
+
+
+
+
 </div>
 
 <div class="bigspacer"></div>
