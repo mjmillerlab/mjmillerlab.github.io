@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Next-generation phylogeny of Caribbean Thashers"
-handle: evolution-of-translation
+title: ddRAD-Seq phylogeny of West Indian Thashers
+handle: thrashers
 image:
 category: post
-tags: [ornithology, species limits, next-generation sequencing]
+hashes: West Indies; phylogeny; ddRAD
 ---
 {% include JB/setup %}
 

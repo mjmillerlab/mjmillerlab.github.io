@@ -52,19 +52,15 @@ with gratitude.
 			</div>	
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
-				{% if page.pdflink %}
+				{% if page.fulltext %}
 					<i class="fa fa-file-pdf-o fa-fw"></i>
-					<a class="off" href="{{ page.pdflink }}">Journal PDF</a>
+					<a class="off" href="{{ page.fulltext }}">Journal Website</a>
 					<br/>
 				{% endif %}
 				{% if page.pdf %}
 					<i class="fa fa-file-pdf-o fa-fw"></i>
-					<a class="off" href="{{ page.pdf }}">PDF</a>
+					<a class="off" href="{{ page.pdf }}">Download PDF</a>
 					<br/>
-				{% endif %}
-				{% if page.fulltext %}
-				<i class="fa fa-external-link fa-fw"></i>
-				<a class="off" href="{{ page.fulltext }}">Journal HTML</a>
 				{% endif %}
 			</div>
 			<div class="bigspacer"></div>			

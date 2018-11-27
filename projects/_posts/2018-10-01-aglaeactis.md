@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Speciation Genomics of Aglaeactis Hummingbirds"
+title: speciation genomics of <i>Aglaeactis</i> hummingbirds
 handle: aglaeactis
 image:
 category: post
-tags: [ornithology, species limits, speciation, whole genome sequencing]
+hashes: species limits; speciation; whole genome sequencing
 ---
 {% include JB/setup %}
 

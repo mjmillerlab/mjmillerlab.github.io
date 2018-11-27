@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Genomics of Recent Speciation in Lampornis Hummingbirds"
+title: recent speciation in <i>Lampornis</i> hummingbirds
 handle: lampornis
 image:
 category: post
-tags: [ornithology, species limits, speciation, whole genome sequencing]
+hashes: species limits; speciation; whole genome sequencing
 ---
 {% include JB/setup %}
 
