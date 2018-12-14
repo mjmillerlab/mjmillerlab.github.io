@@ -7,7 +7,7 @@ email:
 twitter:
 github:
 scholar:
-image: /assets/images/team/bunting.png
+image: /assets/images/team/bunting2.png
 cv:
 alum: false
 ---
