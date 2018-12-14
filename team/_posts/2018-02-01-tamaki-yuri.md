@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Tamaki Yuri"
-position: Collections Manager
+position:
 handle: tyuri
 email: tyuri@ou.edu
 twitter:
@@ -12,4 +12,4 @@ cv:
 alum: true
 ---
 
-Tamaki was the Collection Manager in the Ornithology Department of the Sam Noble Museum. She recently assumed a Curator position at the Ohio State University's Museum of Biological Diversity.
+Tamaki was the Collection Manager in the Ornithology Department of the Sam Noble Museum from 2007 until 2018. She recently assumed a Curator position at the Ohio State University's Museum of Biological Diversity.
