@@ -3,10 +3,10 @@ layout: member
 title: Sidney Vong
 position: Undergrad (OU)
 nickname: Sidney
-handle: 
-email: 
+handle:
+email:
 twitter:
-github: 
+github:
 scholar:
 image: /assets/images/team/sidney.png
 cv:
