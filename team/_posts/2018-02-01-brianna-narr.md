@@ -11,5 +11,3 @@ image: /assets/images/team/bunting2.png
 cv:
 alum: false
 ---
-
-Tamaki was the Collection Manager in the Ornithology Department of the Sam Noble Museum from 2007 until 2018. She recently assumed a Curator position at the Ohio State University's Museum of Biological Diversity.
