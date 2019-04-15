@@ -2,20 +2,20 @@
 layout: paper
 title: "Phylogenomics clarifies biogeographic and evolutionary history, and conservation status of West Indian tremblers and thrashers (Aves: Mimidae)"
 year: 2019
-shortref: "DaCosta et al. 2019 Biorxiv"
-journal: "Biorkiv"
-volume: 
+shortref: "DaCosta et al. In Press"
+journal: "Mol Phyl & Evol"
+volume:
 issue:
-pages: 
+pages:
 authors: "Jeffrey M DaCosta, Matthew J Miller, Jennifer L Mortensen, J. Michael Reed, Robert L Curry, Michael D Sorenson"
 image: /assets/images/papers/thrashers.png
-pdf: 
-fulltext: https://www.biorxiv.org/content/10.1101/540658v1
-doi: 10.1101/540658
+pdf:
+fulltext:
+doi:
 category: paper
 published: true
-peerreview: 
-embargo: no
+peerreview: true
+embargo: yes
 review: false
 tags: [genomics, RAD-SEQ, West Indies, biogeography]
 
