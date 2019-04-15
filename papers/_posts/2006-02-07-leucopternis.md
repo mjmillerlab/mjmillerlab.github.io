@@ -9,7 +9,7 @@ issue: 6
 pages: 10
 authors: "Fabio S Raposo Do Amaral, Matthew J Miller, Luís Fábio Silveira, Eldredge Bermingham, Anita Wajntal"
 image: /assets/images/papers/leucopternis.jpg
-pdf: 
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2006raposo.pdf
 pdflink: http://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-6-10
 doi: 10.1186/1471-2148-6-10
 category: paper
@@ -30,4 +30,3 @@ Our molecular phylogeny for the genus Leucopternis and its allies disagrees shar
 
 **Conclusion**
 The polyphyly of *Leucopternis*, *Buteogallus* and *Buteo* establishes a lack of concordance of current Accipitridae taxonomy with the mtDNA phylogeny for the group, and points to the need for further phylogenetic analysis at all taxonomic levels in the family as also suggested by other recent analyses. Habitat shifts, as well as cis- and trans-Andean disjunctions, took place more than once during buteonine diversification in the Neotropical region. Overemphasis of the black and white plumage patterns has led to questionable conclusions regarding the relationships of Leucopternis species, and suggests more generally that plumage characters should be used with considerable caution in the taxonomic evaluation of the Accipitridae.
-

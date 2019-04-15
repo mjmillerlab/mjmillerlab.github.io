@@ -9,7 +9,7 @@ issue:
 pages: 587—599
 authors: "Robert W Bryson, Jaime Chaves, Brian Tilston Smith, Matthew J Miller, Kevin Winker, Jorge L Pérez‐Emán, John Klicka"
 image: /assets/images/papers/cyan.jpg
-pdf: /asssets/pdfs/bryson2014.pdf
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2014bryson.pdf
 pdflink: http://onlinelibrary.wiley.com/doi/10.1111/jbi.12218/epdf
 doi: 10.1111/jbi.12218
 category: paper

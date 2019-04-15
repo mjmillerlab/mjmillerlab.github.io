@@ -8,12 +8,12 @@ volume: 62
 pages: 711-717
 authors: "Miller MJ"
 image: /assets/images/papers/aruza.png
-pdf: /asssets/pdfs/miller2014a.pdf
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2014a_miller.pdf
 pdflink:  http://www.scielo.sa.cr/pdf/rbt/v62n2/a25v62n2.pdf
 pmid: 25102652
-pmcid: 
-f1000: 
-figshare: 
+pmcid:
+f1000:
+figshare:
 doi: 10.15517/rbt.v62i2.10493
 category: paper
 published: true

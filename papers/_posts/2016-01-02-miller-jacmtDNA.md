@@ -8,12 +8,12 @@ volume: 27
 pages: 764-765
 authors: "Matthew J Miller, Celestino Aguilar, Luis Fernando De León, José R Loaiza, W Owen McMillan"
 image: /assets/images/papers/jacana.png
-pdf: 
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2014b_miller.pdf
 pdflink: http://www.tandfonline.com/doi/abs/10.3109/19401736.2014.915530?journalCode=imdn21
-pmid: 
-pmcid: 
-f1000: 
-figshare: 
+pmid:
+pmcid:
+f1000:
+figshare:
 doi: 10.3109/19401736.2014.915530
 category: paper
 published: true

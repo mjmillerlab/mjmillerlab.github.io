@@ -5,11 +5,11 @@ year: "2016"
 shortref: "Lopez et al. 2016. MTDNA"
 journal: "Mitochondrial DNA Part A"
 volume: 27
-issue: 
+issue:
 pages: 3451-3453
 authors: "Krisangel Lopez, Cody Angeli, Celestino Aguilar, Jose R Loaiza, Luis Fernando De León, W Owen McMillan, Matthew J Miller"
 image: /assets/images/papers/lopez.png
-pdf: 
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2015lopez.pdf
 pdflink: http://www.tandfonline.com/doi/abs/10.3109/19401736.2015.1066344?journalCode=imdn21
 doi: 10.3109/19401736.2015.1066344
 category: paper

@@ -5,13 +5,13 @@ year: "2015"
 shortref: "Miller et al. 2015. Checklist"
 journal: "Checklist"
 volume: 11
-issue: 
+issue:
 pages: 1585
 authors: "Matthew J Miller, George R Angehr, Robert S Ridgely, John Klicka, Oscar G López Ch, Jacobo Arauz, Euclides Campos, Daniel Buitrago-Rosas"
 image: /assets/images/papers/checklist.png
-pdf: 
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2015b_miller.pdf
 pdflink: http://www.biotaxa.org/cl/article/view/11.2.1585/11988
-doi: 10.15560/11.2.1585	
+doi: 10.15560/11.2.1585
 category: paper
 published: true
 peerreview: true

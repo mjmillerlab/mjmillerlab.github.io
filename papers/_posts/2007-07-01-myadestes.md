@@ -5,13 +5,13 @@ year: "2007"
 shortref: "Miller et al. 2007. The Auk"
 journal: The Auk
 volume: 124
-issue: 
+issue:
 pages: 868-885
 authors: "Matthew J Miller, Eldredge Bermingham, Robert E Ricklefs"
 image: /assets/images/papers/melanops.gif
-pdf: /assets/pdfs/Miller2007.pdf
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2007miller.pdf
 pdflink: http://www.jstor.org/stable/pdf/25150343.pdf
-doi: 
+doi:
 category: paper
 published: true
 peerreview: true

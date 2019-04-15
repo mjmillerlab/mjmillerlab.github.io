@@ -8,12 +8,12 @@ volume: 112
 pages: 718-730
 authors: "Juan Camilo Chaves, Andrés M Cuervo, Matthew J Miller, Carlos Daniel Cadena"
 image: /assets/images/papers/myr.jpg
-pdf: 
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2010chaves.pdf
 pdflink: http://www.aoucospubs.org/doi/pdf/10.1525/cond.2010.100098
-pmid: 
-pmcid: 
-f1000: 
-figshare: 
+pmid:
+pmcid:
+f1000:
+figshare:
 doi: /10.1525/cond.2010.100098
 category: paper
 published: true

@@ -9,7 +9,7 @@ issue:
 pages: 1133-1142
 authors: "Matthew J Miller, Eldredge Bermingham, John Klicka, Patricia Escalante, Fabio S Raposo do Amaral, Jason T Weir, Kevin Winker"
 image: /assets/images/papers/mionectes.jpg
-pdf: /asssets/pdfs/bryson2014.pdf
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2008miller.pdf
 pdflink: http://rspb.royalsocietypublishing.org/content/royprsb/275/1639/1133.full.pdf
 doi: 10.1098/rspb.2008.0015
 category: paper

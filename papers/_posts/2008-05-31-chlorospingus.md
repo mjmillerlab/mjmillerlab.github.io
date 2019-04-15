@@ -5,11 +5,11 @@ year: "2008"
 shortref: "Weir et al. 2008. Mol Phy Evol"
 journal: "Molecular Phylogenetics and Evolution"
 volume: 47
-issue: 
+issue:
 pages: 650-664
 authors: "Jason T Weir, Eldredge Bermingham, Matthew J Miller, John Klicka, Maribel A González"
 image: /assets/images/papers/chlorospingus.jpg
-pdf: 
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2008weir.pdf
 pdflink: http://www.sciencedirect.com/science/article/pii/S1055790308000651
 doi: 10.1016/j.ympev.2008.02.004
 category: paper

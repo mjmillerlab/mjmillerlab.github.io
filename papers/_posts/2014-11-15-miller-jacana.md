@@ -2,14 +2,14 @@
 layout: paper
 title: "Genetic and phenotypic characterization of a hybrid zone between polyandrous Northern and Wattled Jacanas in western Panama"
 year: "2014"
-shortref: "Miller et al. 2016. BMC Evolutionary Biology"
+shortref: "Miller et al. 2014. BMC Evolutionary Biology"
 journal: "BMC Evolutionary Biology"
 volume: 14
-issue: 
+issue:
 pages: 227
 authors: "Matthew J Miller, Sara E Lipshutz, Neal G Smith, Eldredge Bermingham"
 image: /assets/images/papers/jacana2.png
-pdf: 
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2014c_miller.pdf
 pdflink: https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-014-0227-7
 doi: 10.1186/s12862-014-0227-7
 category: paper

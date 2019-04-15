@@ -8,12 +8,12 @@ volume: 27
 pages: 890-891
 authors: "Celestino Aguilar, Luis Fernando De Léon, José R Loaiza, W Owen McMillan, Matthew J Miller"
 image: /assets/images/papers/mionmtDNA.png
-pdf: 
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2014loaiza.pdf
 pdflink: http://www.tandfonline.com/doi/abs/10.3109/19401736.2014.919491?journalCode=imdn21
-pmid: 
-pmcid: 
-f1000: 
-figshare: 
+pmid:
+pmcid:
+f1000:
+figshare:
 doi: 10.3109/19401736.2014.919491
 category: paper
 published: true

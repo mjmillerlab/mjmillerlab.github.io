@@ -5,13 +5,13 @@ year: "2015"
 shortref: "Miller & Loaiza 2015. PLOS NTD"
 journal: "Plos Neglected Tropical Diseases"
 volume: 9
-issue: 
+issue:
 pages: e00033835
 authors: "Matthew J Miller, Jose R Loaiza"
 image: /assets/images/papers/plosntd.png
-pdf: 
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2015a_miller.pdf
 pdflink: http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003383
-doi: 10.1371/journal.pntd.0003383	
+doi: 10.1371/journal.pntd.0003383
 category: paper
 published: true
 peerreview: true

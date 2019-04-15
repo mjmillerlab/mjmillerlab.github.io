@@ -8,12 +8,12 @@ volume: 344
 pages: 814-815
 authors: "Luiz A Rocha and 124 others"
 image: /assets/images/papers/rocha.png
-pdf: 
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2014rocha.pdf
 pdflink: http://science.sciencemag.org/content/344/6186/814
-pmid: 
-pmcid: 
-f1000: 
-figshare: 
+pmid:
+pmcid:
+f1000:
+figshare:
 doi: 10.1126/science.344.6186.814
 category: paper
 published: true
