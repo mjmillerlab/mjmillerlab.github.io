@@ -13,4 +13,4 @@ cv:
 alum: false
 ---
 
-Sidney is a new Honors College undergrad in our lab. He comes from Edmond, OK. He loves birds, and is currently taking Ornithology (taught by MJM). For his Honors research problem, Sidney is going to tackle the Meadowlark enigma in the southern Great Plains.
+Sidney is an Honors College undergrad in our lab. He comes from Edmond, OK. For his Honors research, Sidney is sequencing whole genomes of North American Meadowlarks (Sturnella) to understand their evolutionary history, tempo and mode of speciation, and to identify a set of markers useful for measuring introgression between Western and Eastern Meadowlarks. Sidney hopes to go to grad school in ornithology focusing on molecular approaches to understanding avian diversity.

@@ -13,3 +13,5 @@ alum: true
 ---
 
 Jorge Garzon is a research technician at the [Gorgas Memorial Institute](http://www.gorgas.gob.pa). Previously, Jorge was a research intern when the Miller Lab was at [STRI](http://www.stri.si.edu), and he did his BS thesis in the lab. Jorge continues to collaborate on various projects in the Miller Lab. At the Smithsonian Institute Bird Collection (STRIBC) he learned how to process bird skins and developed his skills as a field ornithologist. His current interests focus on studying speciation of birds in the Neotropics.
+
+Jorge is currently a PhD student at Virgina Commonwealth University where his is studying how genomics, physiology, and behavior interact to maintain species limits in Neotropical birds.
