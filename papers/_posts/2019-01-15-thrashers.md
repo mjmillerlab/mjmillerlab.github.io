@@ -2,7 +2,7 @@
 layout: paper
 title: "Phylogenomics clarifies biogeographic and evolutionary history, and conservation status of West Indian tremblers and thrashers (Aves: Mimidae)"
 year: 2019
-shortref: "DaCosta et al. In Press Mol Phy & Evol"
+shortref: "DaCosta et al. 2019 Mol Phy & Evol"
 journal: "Mol Phyl & Evol"
 volume: 136
 issue:
