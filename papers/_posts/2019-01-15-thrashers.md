@@ -4,18 +4,23 @@ title: "Phylogenomics clarifies biogeographic and evolutionary history, and cons
 year: 2019
 shortref: "DaCosta et al. In Press Mol Phy & Evol"
 journal: "Mol Phyl & Evol"
-volume:
+volume: 136
 issue:
-pages:
+pages: 196-205
 authors: "Jeffrey M DaCosta, Matthew J Miller, Jennifer L Mortensen, J. Michael Reed, Robert L Curry, Michael D Sorenson"
 image: /assets/images/papers/thrashers.png
 pdf:
-fulltext:
-doi:
+
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2019miller.pdf
+pdflink: https://www.sciencedirect.com/science/article/pii/S1055790319300326
+pmid: 30999037
+pmcid:  
+f1000:
+figshare:
+doi: 10.1016/j.ympev.2019.04.016
 category: paper
 published: true
 peerreview: true
-embargo: yes
 review: false
 tags: [genomics, RAD-SEQ, West Indies, biogeography]
 
