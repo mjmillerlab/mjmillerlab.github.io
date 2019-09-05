@@ -4,12 +4,12 @@ title: Celestino Aguilar
 position: PhD Student (INDICASAT)
 handle: caguilar
 email: aguilar2587c@gmail.com
-twitter: 
+twitter:
 github:
-scholar: 
+scholar:
 image: /assets/images/team/celestino2.jpg
 cv:
-alum: 
+alum:
 collaborator: true
 ---
 

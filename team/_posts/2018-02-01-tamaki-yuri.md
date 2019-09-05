@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Tamaki Yuri"
-position:
+position: Collection Manager (Now Curator at Ohio State University)
 handle: tyuri
 email: tyuri@ou.edu
 twitter:

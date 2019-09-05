@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Krisangel López"
-position: MS Student (OU)
+position: Undergrad and Graduate Student (Now a PhD student at Virginia Tech)
 nickname: Kris
 handle: klopez
 email: krisangel.lopez-1@ou.edu
