@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Kevin Hawkins
-position: PhD Student (OU)
+position: PhD Student (On break)
 nickname: Kevin
 handle: kkh
 email: kevin.hawkins@ou.edu
