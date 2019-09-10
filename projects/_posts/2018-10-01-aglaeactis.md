@@ -1,7 +1,7 @@
 ---
 layout: default
 title: speciation genomics of <i>Aglaeactis</i> hummingbirds
-handle: aglaeactis
+handle: sunbeams
 image:
 category: post
 hashes: species limits; speciation; whole genome sequencing
