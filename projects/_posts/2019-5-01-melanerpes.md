@@ -8,15 +8,18 @@ hashes: species limits; phylogeny; hybridization; ddRAD
 ---
 {% include JB/setup %}
 
+<div class="bigspacer"></div>
 
 # Species limits within the Golden-fronted – Red-bellied Woodpecker species complex
 
-<br />
-<br />
+### Project authors: Matthew Miller and Phil Lavretsky (UTEP)
+
+<div class="bigspacer"></div>
+
 <img src="/assets/images/projects/melanerpes009.png"  width="800">
 
-<br />
-<br />
+<div class="bigspacer"></div>
+
 For over half a century, ornithologists have debated how to interpret phenotypic variation in the Golden-fronted – Red-bellied Woodpecker species complex and closely related parapatric allies (<i>Melanerpes</i>) from North and Central America. This includes Velasquez’s Woodpecker (<i>M. santacruzi</i>), which some authorities have treated as conspecific with the Golden-fronted Woodpecker (<i>M. aurifrons</i>).  
 
 <br />
