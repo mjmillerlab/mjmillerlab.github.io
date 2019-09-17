@@ -18,6 +18,8 @@ Project authors: Matthew Miller and Phil Lavretsky (UTEP)
 
 For over half a century, ornithologists have debated how to interpret phenotypic variation in the Golden-fronted – Red-bellied Woodpecker species complex and closely related parapatric allies (<i>Melanerpes</i>) from North and Central America. This includes Velasquez’s Woodpecker (<i>M. santacruzi</i>), which some authorities have treated as conspecific with the Golden-fronted Woodpecker (<i>M. aurifrons</i>).
 
+<div class="bigspacer"></div>
+
 <img src="/assets/images/projects/melanerpes009.png"  width="800">
 
 
@@ -32,7 +34,7 @@ We have generated genome-wide ddRAD-seq loci to reconstruct historical demograph
 
 <div class="bigspacer"></div>
 
-Admixture between the species in this group is non-existent, despite the fact that hybrids are often reported. We did find evidence for two hybrids between Red-bellied and Golden-fronted Woodpeckers
+Admixture between the species in this group is non-existent, despite the fact that hybrids are often reported. We did find evidence for two hybrids between Red-bellied and Golden-fronted Woodpeckers.
 <br />
 <br />
 
