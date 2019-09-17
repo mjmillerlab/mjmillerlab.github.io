@@ -1,6 +1,6 @@
 ---
 layout: default
-title: species limits within the <i>Centarus</i> clade of <i>Melanerpes</i> woodpeckers
+title: Melanerpes species limits
 handle: woodpeckers
 image:
 category: post
@@ -12,24 +12,27 @@ hashes: species limits; phylogeny; hybridization; ddRAD
 
 # Species limits within the Golden-fronted – Red-bellied Woodpecker species complex
 
-### Project authors: Matthew Miller and Phil Lavretsky (UTEP)
+Project authors: Matthew Miller and Phil Lavretsky (UTEP)
 
 <div class="bigspacer"></div>
+
+For over half a century, ornithologists have debated how to interpret phenotypic variation in the Golden-fronted – Red-bellied Woodpecker species complex and closely related parapatric allies (<i>Melanerpes</i>) from North and Central America. This includes Velasquez’s Woodpecker (<i>M. santacruzi</i>), which some authorities have treated as conspecific with the Golden-fronted Woodpecker (<i>M. aurifrons</i>).
 
 <img src="/assets/images/projects/melanerpes009.png"  width="800">
 
+
+
 <div class="bigspacer"></div>
 
-For over half a century, ornithologists have debated how to interpret phenotypic variation in the Golden-fronted – Red-bellied Woodpecker species complex and closely related parapatric allies (<i>Melanerpes</i>) from North and Central America. This includes Velasquez’s Woodpecker (<i>M. santacruzi</i>), which some authorities have treated as conspecific with the Golden-fronted Woodpecker (<i>M. aurifrons</i>).  
+We have generated genome-wide ddRAD-seq loci to reconstruct historical demography and to estimate historical and contemporary patterns of gene flow in this group. Our data indicate a sister-species relationship between Red-bellied and Golden-fronted Woodpeckers.The common ancestor of these two species is sister to Velasquez’s Woodpecker, which should be considered a separate species from Golden-fronted Woodpecker.
 
-<br />
-<br />
+<div class="bigspacer"></div>
 
 <img src="/assets/images/projects/mel_phylo4.png"  width="800">
 
-<br />
-<br />
-We have generated genome-wide ddRAD-seq loci to reconstruct historical demography and to estimate historical and contemporary patterns of gene flow in this group. Our data indicate a sister-species relationship between Red-bellied and Golden-fronted Woodpeckers.The common ancestor of these two species is sister to Velasquez’s Woodpecker, which should be considered a separate species from Golden-fronted Woodpecker.Using demographic models, we find no evidence for gene flow after speciation among these species. Finally, the genome-wide data suggests recent speciation for all three species, occurring between 100,000 and 500,000 years before present.
+<div class="bigspacer"></div>
+
+Admixture between the species in this group is non-existent, despite the fact that hybrids are often reported. We did find evidence for two hybrids between Red-bellied and Golden-fronted Woodpeckers
 <br />
 <br />
 
