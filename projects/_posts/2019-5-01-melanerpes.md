@@ -12,7 +12,8 @@ hashes: species limits; phylogeny; hybridization; ddRAD
 
 # Species limits within the Golden-fronted – Red-bellied Woodpecker species complex
 
-Project authors: Matthew Miller and Phil Lavretsky (UTEP)
+Project authors: Matthew Miller and Phil Lavretsky (UTEP) <br /> 
+[Project github repository](https://github.com/mjmillerlab/melanerpes_ddrad)
 
 <div class="bigspacer"></div>
 
