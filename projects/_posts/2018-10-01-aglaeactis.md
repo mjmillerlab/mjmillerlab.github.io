@@ -22,7 +22,7 @@ Hummingbirds are one of the most species rich bird families on Earth. In particu
 
 The *Aglaeactis* sunbeams are a lineage of common hummingbirds in the Andean highlands of Colombia, Ecuador, Peru, and Bolivia. Four species are currently recognized (Figure 1). The Shining Sunbeam (*A. cupripennis*) is the most widespread species , ranging from Colombia to Cuzco, Peru. It is polytypic, with the northern nominate subspecies generally more orange  and the southern *caumatanotus* more brown.
 
-<img src="/assets/images/projects/sunbeam_map.png" width="300">
+<img src="/assets/images/projects/sunbeam_map.png" width="600">
 **Figure 1: Range of Sunbeam Hummingbirds**   
 <div class="bigspacer"></div>
 
