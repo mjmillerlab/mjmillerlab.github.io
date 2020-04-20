@@ -1,0 +1,28 @@
+---
+layout: paper
+title: " Genomic signature of allopatric divergence in the weakly-electric fish <i>Sternopygus dariensis</i> in the Isthmus of Panama"
+year: 2019
+shortref: "Aguilar et al. 2019 Sci Reports"
+journal: "Scientific Reports"
+volume: 9
+issue:
+pages: 18828
+authors: "Celestino Aguilar, Matthew J Miller, Jose Loaiza, Rigoberto Gonzalez, Rüdiger Krahe, Luis de Leon"
+image: /assets/images/papers/electric.png
+pdf:
+fulltext: https://www.nature.com/articles/s41598-019-55336-y
+pmid: 31827183
+pmcid: PMC6906317
+f1000:
+figshare:
+doi: 10.1038/s41598-019-55336-y
+category: paper
+published: true
+peerreview: true
+review: false
+tags: [genomics, Panama, species limits]
+
+---
+
+# Abstract
+Test Spatial isolation is one of the main drivers of allopatric speciation, but the extent to which spatially-segregated populations accumulate genetic differences relevant to speciation is not always clear. We used data from ultraconserved elements (UCEs) and whole mitochondrial genomes (i.e., mitogenomes) to explore genetic variation among allopatric populations of the weakly electric fish <i>Sternopygus dariensis</i> across the Isthmus of Panama. We found strong genetic divergence between eastern and western populations of S. dariensis. Over 77% of the UCE loci examined were differentially fixed between populations, and these loci appear to be distributed across the species' genome. Population divergence occurred within the last 1.1 million years, perhaps due to global glaciation oscillations during the Pleistocene. Our results are consistent with a pattern of genetic differentiation under strict geographic isolation, and suggest the presence of incipient allopatric species within S. dariensis. Genetic divergence in <i>S. dariensis</i> likely occurred in situ, long after the closure of the Isthmus of Panama. Our study highlights the contribution of spatial isolation and vicariance to promoting rapid diversification in Neotropical freshwater fishes. The study of spatially-segregated populations within the Isthmus of Panama could reveal how genetic differences accumulate as allopatric speciation proceeds.
