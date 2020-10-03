@@ -9,7 +9,7 @@ issue:
 pages: e0008265
 authors: "Matthew J Miller, Jose R Loaiza, Anshule Takyar, Robert H Gilman"
 image: /assets/images/papers/covid.png
-pdf:
+pdf: https://github.com/mjmillerlab/mjmillerlab.github.io/blob/master/assets/pdfs/2020Miller.pdf
 fulltext: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008265
 pmid: 32379757
 pmcid:
